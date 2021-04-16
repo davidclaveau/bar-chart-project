@@ -1,1 +1,5 @@
 node_modules
+.DS_Store
+bar-chart-website/.DS_Store
+bar-chart-website/assets/.DS_Store
+bar-chart-website/assets/scripts/.DS_Store
